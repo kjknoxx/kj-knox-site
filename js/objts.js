@@ -1,6 +1,6 @@
 // First making the objects containing the information for my card projections.
 
-// Object to hold
+// Object to hold project information
 let projectInfo = [
     {
         project_name: "Code Up Capstone",
@@ -14,6 +14,7 @@ let projectInfo = [
     }
 ]
 
+// Object to hold ui Gallery information
 let uiGalleryInfo = [
     {
         name: "Personal Website Design",
@@ -27,6 +28,7 @@ let uiGalleryInfo = [
     }
 ]
 
+// Object to hold
 let imgGalleryInfo = [
     {
         img: "imgs/temps-3.jpg",
